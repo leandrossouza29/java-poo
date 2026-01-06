@@ -130,5 +130,3 @@ public class Main {
         sc.close();
     }
 }
-
-//Ultimo teste 06/01/2026.
