@@ -54,14 +54,14 @@ public class Main {
             sc.nextLine();
 
             switch (opcao) {
-        //adastrar funcionário.
+        //Cadastrar funcionário.
                 case 1:
                     System.out.println("\n=== Cadastro de Funcionário ===");
 
                     System.out.print("Nome: ");
                     String nome = sc.nextLine();
 
-        //garante que uma idade válida foi selecionada.
+        //Garante que uma idade válida foi selecionada.
                     int idade = 0;
                     System.out.print("Idade: ");
                     while (true) {
